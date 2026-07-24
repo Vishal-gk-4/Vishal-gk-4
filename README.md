@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Programming: Python, C++, Java (basics), SQL
+Data: Pandas, NumPy, Matplotlib, Power BI
+AI/ML: Machine Learning fundamentals, LLM concepts, RAG concepts, Transformers, RNN/LSTM basics
+Cloud: AWS basics (S3, EC2, EBS)
+Databases: MySQL
+Currently learning: DSA, SQL interview questions, Git/GitHub, Docker, Django
+Projects you've worked on or planned: Power BI dashboard, diabetes prediction, AI/ML projects, portfolio website
