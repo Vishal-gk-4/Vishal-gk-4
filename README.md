@@ -13,16 +13,6 @@ Currently, I am building a strong foundation in C++, Python, SQL, Java, and data
 * Cloud: AWS (EC2, S3, EBS)
 * AI & Machine Learning: Machine Learning Fundamentals, Transformers, RNN, LSTM, LLMs, RAG
 
-## Projects
-
-* Diabetes Prediction System
-* Power BI Dashboard
-* Customer Churn Prediction
-* House Price Prediction
-* SQL Sales Analysis
-* Portfolio Website
-* RAG Chatbot
-* Resume Screening System
 
 ## Current Focus
 
