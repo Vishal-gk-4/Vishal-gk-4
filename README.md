@@ -1,4 +1,38 @@
 ## Hi there 👋
+# About Me
+
+I am Vishal , a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML). I enjoy learning software development, data structures and algorithms, cloud computing, and machine learning while continuously improving my problem-solving skills.
+
+Currently, I am building a strong foundation in C++, Python, SQL, Java, and data analysis. My technical interests include machine learning, large language models (LLMs), retrieval-augmented generation (RAG), cloud technologies, and data visualization.
+
+## Technical Skills
+
+* Programming Languages: C++, Python, Java, SQL
+* Data Analysis: Pandas, NumPy, Matplotlib, Power BI
+* Database: MySQL
+* Cloud: AWS (EC2, S3, EBS)
+* AI & Machine Learning: Machine Learning Fundamentals, Transformers, RNN, LSTM, LLMs, RAG
+
+## Projects
+
+* Diabetes Prediction System
+* Power BI Dashboard
+* Customer Churn Prediction
+* House Price Prediction
+* SQL Sales Analysis
+* Portfolio Website
+* RAG Chatbot
+* Resume Screening System
+
+## Current Focus
+
+* Solving Data Structures and Algorithms problems
+* Strengthening SQL and database concepts
+* Learning cloud computing with AWS
+* Building practical AI and machine learning projects
+* Preparing for AI/ML internship opportunities
+
+I believe in continuous learning, writing clean code, and building real-world projects that strengthen both technical knowledge and problem-solving abilities.
 
 <!--
 **Vishal-gk-4/Vishal-gk-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
